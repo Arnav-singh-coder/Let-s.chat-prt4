@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../kwitter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Let's Chat"
+	}
+}
